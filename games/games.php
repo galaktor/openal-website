@@ -74,6 +74,7 @@
 		<tr><td>Slune</td><td>FreeBSD, Linux </td></tr>
 		<tr><td><a href="http://www.ravensoftware.com/games/soldier-of-fortune/view-game/">Soldier of Fortune</a> </td><td>Linux </td></tr>
 		<tr><td><a href="http://www.ravensoftware.com/games/soldier-of-fortune-double-helix/view-game/">Soldier of Fortune 2</a> </td><td>Windows </td></tr>
+                <tr><td><a href="http://sonus-game.com/">sonus:portals</a> </td><td>Windows</td></tr>
 		<tr><td><a href="http://spring.clan-sy.com/">Spring</a> </td><td>Linux, Windows</td></tr>
 		<tr><td>S.T.A.L.K.E.R. </td><td>Windows </td></tr>
 		<tr><td><a href="http://thilo.kickchat.com/efport-progress/">Star Trek Voyager: Elite Force</a> {engine: <a href="http://ioquake3.org/extras/derivative-games/">ioquake3</a>} </td><td>Linux , OS X, Windows </td></tr>
